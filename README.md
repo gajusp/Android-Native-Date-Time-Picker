@@ -18,7 +18,7 @@ New in 0.8.0 (Android Only):
 
 - Option is24Hour added
 
-
+ 
 ## Installation
 
 - Local development workflow using [Cordova CLI](http://cordova.apache.org/docs/en/edge/)
