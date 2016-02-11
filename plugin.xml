@@ -13,7 +13,7 @@
 
     <keywords>cordova,phonegap,datepicker,android,ios,ios7,ios8,wp</keywords>
 
-    <repo>https://github.com/VitaliiBlagodir/cordova-plugin-datepicker.git</repo>
+    <repo>https://github.com/gajusp/Android-Native-Date-Time-Picker.git</repo>
 
     <!-- android -->
     <platform name="android">
